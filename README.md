@@ -50,3 +50,11 @@ It allows users to interact with multiple LLM models and adjust response behavio
     <b>Model:</b> openai/gpt-oss-120b
   </div>
 </p>
+
+
+## 🚀 Live Demo
+
+🔗 Try it here: https://chatbot-2-groq.streamlit.app/
+
+---
+
